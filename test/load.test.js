@@ -1,6 +1,5 @@
-import { describe, it } from 'mocha';
-import { expect } from 'chai';
-import { load } from '../index.js';
+const expect = require('chai').expect;
+const load = require('../index.js').load;
 
 describe('Test json load', () => {
   it('Test load method', (done) => {

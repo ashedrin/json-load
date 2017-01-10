@@ -1,6 +1,6 @@
 {
-  "name": "json-load",
-  "version": "1.0.0",
+  "name": "json-as-js",
+  "version": "1.0.2",
   "description": "Module for load json files and parse to js objects",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/ashedrin/json-load#readme",
   "devDependencies": {
-    "babel-register": "^6.18.0",
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
   }
