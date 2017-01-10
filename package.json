@@ -1,6 +1,6 @@
 {
   "name": "json-as-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Module for load json files and parse to js objects",
   "main": "index.js",
   "scripts": {
